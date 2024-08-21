@@ -1,0 +1,25 @@
+{
+  "name": "sugar",
+  "version": "1.0.0",
+  "description": "deploy candy machine via sugar",
+  "main": "index.ts",
+  "scripts": {
+    "upload": "ts-node index.ts",
+    "config": "solana config get",
+    "launch": "sugar launch",
+    "mint": "sugar mint",
+    "devnet": "solana config set --url $SOLANA_DEVNET_RPC_URL --keypair id.json",
+    "mainnet": "solana config set --url $SOLANA_RPC_URL --keypair id.json"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.3.1",
+    "pinata": "^0.3.4",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0"
+  }
+}

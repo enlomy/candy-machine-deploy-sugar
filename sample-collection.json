@@ -1,0 +1,22 @@
+{
+    "name": "Mutatoad",
+    "symbol": "MUTATOAD",
+    "description": "Simple Chaos",
+    "seller_fee_basis_points": 500,
+    "image": "https://bafybeihlfjbnbqkcr7an7yzcg66fq7cmziti4oimro7tuoxoutbfwhfoka.ipfs.w3s.link/12.png",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Mutatoad"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeihlfjbnbqkcr7an7yzcg66fq7cmziti4oimro7tuoxoutbfwhfoka.ipfs.w3s.link/12.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }

@@ -1,0 +1,6 @@
+[
+  {
+    "path": "assets/0.json",
+    "error": "missing field `uri` at line 17 column 7"
+  }
+]

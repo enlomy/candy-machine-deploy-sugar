@@ -1,0 +1,45 @@
+{
+  "tokenStandard": "pnft",
+  "number": 5,
+  "symbol": "SKL",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "5n7gmXDSSKoaFVPkDApfXxrxh4CDHB22XmQg3JWemFXS",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "botTax": {
+        "value": 0.01,
+        "lastInstruction": true
+      }
+    },
+    "groups": [
+      {
+        "label": "Public",
+        "guards": {
+          "startDate": {
+            "date": "2022-10-20 18:00:00 +0000"
+          },
+          "solPayment": {
+            "value": 1,
+            "destination": "EMDLZ5oNHyhZbq5j8T31SEfCwzsFNK5aK8F9pEbtJDFa"
+          }
+        }
+      }
+    ]
+  },
+  "maxEditionSupply": null
+}

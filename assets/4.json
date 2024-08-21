@@ -1,0 +1,23 @@
+{
+  "name": "Skull #4",
+  "symbol": "SKL",
+  "description": "Memecoin arcade skull head",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSPV8aVtDSuupoEmfEeQySY7wBDGcdYGUMSyikUJdjdVS/4.gif",
+  "seller_fee_basis_points": 500,
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/QmSPV8aVtDSuupoEmfEeQySY7wBDGcdYGUMSyikUJdjdVS/4.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image"
+  }
+}
