@@ -1,16 +1,16 @@
 {
-  "name": "Collection",
-  "symbol": "SKL",
-  "description": "Memecoin arcade skull head",
-  "seller_fee_basis_points": 500,
-  "image": "https://gateway.pinata.cloud/ipfs/QmSPV8aVtDSuupoEmfEeQySY7wBDGcdYGUMSyikUJdjdVS/4.gif",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://gateway.pinata.cloud/ipfs/QmSPV8aVtDSuupoEmfEeQySY7wBDGcdYGUMSyikUJdjdVS/4.gif",
-        "type": "image/gif"
-      }
-    ],
-    "category": "image"
-  }
+    "name": "Memecoin Arcade",
+    "symbol": "SKL",
+    "description": "Memecoin arcade skull head",
+    "seller_fee_basis_points": 500,
+    "image": "https://gateway.pinata.cloud/ipfs/QmZF9TaHdeoWMghTk6iK7GRVmcwqzEhhhdyypLJ3qTBENg/collection.gif",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://gateway.pinata.cloud/ipfs/QmZF9TaHdeoWMghTk6iK7GRVmcwqzEhhhdyypLJ3qTBENg/collection.gif",
+                "type": "image/gif"
+            }
+        ],
+        "category": "image"
+    }
 }

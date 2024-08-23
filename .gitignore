@@ -3,3 +3,5 @@ id.json
 cache.json
 sugar.log
 .env
+assets/
+config.json

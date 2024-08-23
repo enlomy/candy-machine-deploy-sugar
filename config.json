@@ -1,6 +1,6 @@
 {
-  "tokenStandard": "pnft",
-  "number": 5,
+  "tokenStandard": "nft",
+  "number": 140,
   "symbol": "SKL",
   "sellerFeeBasisPoints": 500,
   "isMutable": true,
@@ -35,7 +35,7 @@
           },
           "solPayment": {
             "value": 1,
-            "destination": "5n7gmXDSSKoaFVPkDApfXxrxh4CDHB22XmQg3JWemFXS"
+            "destination": "DGx6nRaotFy77BmjUhBnqz7dXb33UhTqA1A2nrsEx7n5"
           }
         }
       }
